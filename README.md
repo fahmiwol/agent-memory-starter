@@ -136,7 +136,7 @@ see *Second Brain Kit* below.
 The full method, **Agent Memory OS**, adds the folder layout and index format, twelve prompts
 covering the whole work cycle, a handoff template for crossing between sessions, and five real
 bad-versus-good examples taken from mistakes that actually happened.
-→ [Agent Memory OS — $5](https://fahmiwolf.gumroad.com/l/npfhry)
+→ [Agent Memory OS — $3](https://fahmiwolf.gumroad.com/l/npfhry)
 
 And if you would rather your agent *query* a memory instead of reading files:
 → [Second Brain Kit — one memory for every AI agent, over MCP, $7](https://fahmiwolf.gumroad.com/l/ezqudk)
